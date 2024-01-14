@@ -1,0 +1,10 @@
+.My-Card{
+    display: flex;
+    background-color: violet;
+    margin: 10px;
+    gap: 1rem;
+    justify-content: center;
+}
+Card{
+    padding: 1em;
+}
